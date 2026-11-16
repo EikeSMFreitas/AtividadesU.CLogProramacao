@@ -1,2 +1,2 @@
-# AtividadesU.CLogProramacao
+# Atividades|U.C_LogProramacao
 Repositório de atividades
