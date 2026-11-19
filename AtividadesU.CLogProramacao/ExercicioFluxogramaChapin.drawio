@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="pdYuXmbO4scOkrNBjdLa">
+    <mxGraphModel dx="2502" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wbvqOeG7jMCU98__lZRu-7" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;align=center;" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;LEIA C" vertex="1">
+          <mxGeometry height="60" width="240" x="294" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="f&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ((9° * c) / 5) + 32" vertex="1">
+          <mxGeometry height="60" width="240" x="294" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="390" as="sourcePoint" />
+            <mxPoint x="414" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="wbvqOeG7jMCU98__lZRu-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="490" as="sourcePoint" />
+            <mxPoint x="414" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="384" y="580" as="sourcePoint" />
+            <mxPoint x="364" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="610" as="sourcePoint" />
+            <mxPoint x="414" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-19" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="ESCREVA F" vertex="1">
+          <mxGeometry height="50" width="240" x="294" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="414" y="710" as="sourcePoint" />
+            <mxPoint x="414" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-21" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="FIM" vertex="1">
+          <mxGeometry height="50" width="240" x="294" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-22" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;align=center;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span&gt;&lt;span style=&quot;color: light-dark(#000000, var(--ge-light-color, #ffffff)); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: light-dark(#000000, var(--ge-light-color, #ffffff)); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;INÍCIO&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="294" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-26" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1275.5517241379312" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-25" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="INÍCIO" vertex="1">
+          <mxGeometry height="60" width="250" x="1150" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-33" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280.7241379310349" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="TEMPO &amp;lt;--&amp;nbsp; DIST / VELÔ" vertex="1">
+          <mxGeometry height="90" width="260" x="1150" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-32" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280.7241379310349" y="530.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-30" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="LEIA DISTANCIA, VELÔCIDADE" vertex="1">
+          <mxGeometry height="90" width="260" x="1150" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-35" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="wbvqOeG7jMCU98__lZRu-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280.7241379310349" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-34" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="ESCREVA TEMPO" vertex="1">
+          <mxGeometry height="100" width="260" x="1150" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-36" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="FIM" vertex="1">
+          <mxGeometry height="60" width="240" x="1160" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-37" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2065.551724137931" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-38" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="INÍCIO" vertex="1">
+          <mxGeometry height="60" width="250" x="1940" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-39" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" x="0.32" as="geometry">
+            <mxPoint x="2070" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;align=center;" value="dias_perdidos &amp;lt;-- minutos_perdidos / 1440" vertex="1">
+          <mxGeometry height="90" width="260" x="1940" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-41" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-42" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;align=center;" value="LEIA: CIGARROS FUMADOS POR DIA / ANOS QUE JÁ FUMOU" vertex="1">
+          <mxGeometry height="90" width="260" x="1940" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-43" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="wbvqOeG7jMCU98__lZRu-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070.724137931035" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-44" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;align=center;" value="ESCREVA: &quot;Dias de vida perdidos:&quot;, dias_perdidos" vertex="1">
+          <mxGeometry height="100" width="265" x="1935" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-45" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;" value="FIM" vertex="1">
+          <mxGeometry height="60" width="240" x="1947.5" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-52" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="wbvqOeG7jMCU98__lZRu-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;" value="minutos_perdidos &amp;lt;--&amp;nbsp; totsl-_cigarros * 10" vertex="1">
+          <mxGeometry height="90" width="260" x="1940" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-51" edge="1" parent="1" source="wbvqOeG7jMCU98__lZRu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2069.25" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wbvqOeG7jMCU98__lZRu-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;roundedPerimeter=1;align=center;" value="total_cigarros &amp;lt;-- cigarros_dia * anos * 365" vertex="1">
+          <mxGeometry height="90" width="260" x="1940" y="385" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
